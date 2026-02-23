@@ -24,6 +24,5 @@ bittersweet historical romance
 
 ## Source Format
 
-This repository contains the source files to generate this book in text
-and HTML using the ppt2h program. This book is part of the
-[bookcove](https://bookcove.net) collection.
+This repository contains the source file to generate this book in text and HTML using software tools available at the hosting site. This book is part of the [BookCove](https://bookcove.net) collection.
+
